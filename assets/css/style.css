@@ -3082,7 +3082,7 @@ CUSTOM 30-35
 #logo {
   font: 400 32px "Oleo Script", Helvetica, sans-serif;
   color: #fefefe;
-  padding: 1.125rem;
+  padding: 1rem;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.1); }
 
 .menu .active > a {
@@ -3093,7 +3093,7 @@ CUSTOM 30-35
   color: #fefefe; }
 
 .off-canvas-content {
-  background: url(http://localhost:8888/30-35/wp-content/uploads/2016/03/oslo_bakgrunn.jpg) no-repeat;
+  background: url(../images/oslo_bakgrunn.jpg) no-repeat;
   background-size: cover; }
 
 .top-bar-left, .top-bar-right {

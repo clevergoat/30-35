@@ -5,7 +5,7 @@
 	<div class="top-bar-left float-left">
 		<ul class="menu show-for-small">
 			<li><a href="<?php echo home_url(); ?>" id="logo" class="show-for-large"><?php bloginfo('name'); ?></a></li>
-			<li><a href="<?php echo home_url(); ?>" id="logo" class="hide-for-large">30-35</a></li>
+			<li><a href="<?php echo home_url(); ?>" id="logo" class="hide-for-large">30/35</a></li>
 		</ul>
 	</div>
 	<div class="top-bar-right show-for-medium">
