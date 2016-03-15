@@ -3079,6 +3079,11 @@ FOOTER STYLES
 /*********************
 CUSTOM 30-35
 *********************/
+.box-3035 {
+  background-color: red;
+  border: 1px solid #cdd0d1;
+  border-radius: 4px; }
+
 #logo {
   font: 400 32px "Oleo Script", Helvetica, sans-serif;
   color: #fefefe;
@@ -3093,8 +3098,9 @@ CUSTOM 30-35
   color: #fefefe; }
 
 .off-canvas-content {
-  background: url(../images/oslo_bakgrunn.jpg) no-repeat;
-  background-size: cover; }
+  /*background: url(../images/oslo_bakgrunn.jpg) no-repeat;
+	background-size: cover;*/
+  background-color: rgba(0, 0, 0, 0.05); }
 
 .top-bar-left, .top-bar-right {
   width: inherit; }

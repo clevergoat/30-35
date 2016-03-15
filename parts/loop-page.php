@@ -1,4 +1,4 @@
-<article id="post-<?php the_ID(); ?>" <?php post_class(' large-12 column'); ?> role="article" style="background-color: #fefefe; padding: 1rem; margin-bottom: 1rem;" itemscope itemtype="http://schema.org/WebPage">
+<article id="post-<?php the_ID(); ?>" <?php post_class('large-12 column box-3035'); ?> role="article" style="background-color: #fefefe; padding: 1rem; margin-bottom: 1rem;" itemscope itemtype="http://schema.org/WebPage">
 						
 	<header class="article-header">
 		<h1 class="page-title"><?php the_title(); ?></h1>

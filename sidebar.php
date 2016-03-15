@@ -1,6 +1,6 @@
 
 <div id="sidebar1" class="sidebar large-4 medium-4 columns" role="complementary">
-	<div class="small-12" style="background-color: #fefefe; padding: 1rem; margin-bottom: 1rem;">
+	<div class="small-12 box-3035" style="background-color: #fefefe; padding: 1rem; margin-bottom: 1rem;">
 	<?php if ( is_active_sidebar( 'sidebar1' ) ) : ?>
 
 		<?php dynamic_sidebar( 'sidebar1' ); ?>
