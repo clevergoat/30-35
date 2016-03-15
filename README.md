@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Find out more here: www.jointswp.com  
 Demo: www.jointswp.com/demo
 
@@ -29,6 +28,3 @@ You can use whatever you want – seriously. While the Sass version comes with B
 - Run gulp to confirm everything is working
 
 [Read more about how Gulp is used with JointsWP.](http://jointswp.com/docs/gulp/)
-=======
-# 30-35
->>>>>>> 1f1c6e02685ed6e973ec2fc68109738c40ed85a4
