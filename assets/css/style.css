@@ -3080,7 +3080,7 @@ FOOTER STYLES
 CUSTOM 30-35
 *********************/
 .box-3035 {
-  background-color: red;
+  padding: 1rem;
   border: 1px solid #cdd0d1;
   border-radius: 4px; }
 
